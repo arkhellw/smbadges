@@ -1,0 +1,56 @@
+{
+  "badges": {
+    "shrimp": {
+      "icon": "Shrimp",
+      "color": "#FF6B9D",
+      "label": "Креветка",
+      "description": "Настоящая креветка!"
+    },
+    "dev": {
+      "icon": "Code",
+      "color": "#59d6ec",
+      "label": "Разработчик",
+      "description": "Разработчик платформы. Создаёт новые функции и исправляет баги."
+    },
+    "tester": {
+      "icon": "Bug",
+      "color": "#af64cc",
+      "label": "Тестер",
+      "description": "Тестировщик платформы. Помогает находить и исправлять ошибки."
+    },
+    "alpha": {
+      "icon": "Sparkles",
+      "color": "#ffeb7c",
+      "label": "Альфа",
+      "description": "Альфа-тестер. Один из первых пользователей, тестировавших платформу."
+    },
+    "chill": {
+      "icon": "Coffee",
+      "color": "#50da89",
+      "label": "Чиллер",
+      "description": "Расслабленный участник. Просто кайфует в сообществе."
+    }
+  },
+  "users": {
+    "shrimp": {
+      "mainBadge": "shrimp",
+      "medals": ["shrimp", "dev", "chill"]
+    },
+    "smashelee": {
+      "mainBadge": "shrimp",
+      "medals": ["shrimp", "dev", "chill"]
+    },
+    "krowa": {
+      "mainBadge": "shrimp",
+      "medals": ["shrimp", "dev", "chill"]
+    },
+    "valleriiaq": {
+      "mainBadge": "dev",
+      "medals": ["dev", "chill"]
+    },
+    "proz": {
+      "mainBadge": "tester",
+      "medals": ["tester", "chill"]
+    }
+  }
+}
