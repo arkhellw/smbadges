@@ -38,7 +38,7 @@
     },
     "smashelee": {
       "mainBadge": "shrimp",
-      "medals": ["shrimp", "dev", "chill"]
+      "medals": ["shrimp", "dev"]
     },
     "krowa": {
       "mainBadge": "shrimp",
@@ -54,3 +54,4 @@
     }
   }
 }
+
